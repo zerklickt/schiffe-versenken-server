@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O26EZmteJrmDwMqC/SEkqIrOJuYN7CXAs05jxJE4KQLTPDbPBB1d+NUfp+UOuY83X+SwGWm+AGmRNEFT660qvQ==",
+  "success": true,
+  "projectFilePath": "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\ServerServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick Hoschke\\.nuget\\packages\\supersimpletcp\\2.4.1.2\\supersimpletcp.2.4.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

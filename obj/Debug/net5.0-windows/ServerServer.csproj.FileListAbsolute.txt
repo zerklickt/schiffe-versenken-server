@@ -1,0 +1,78 @@
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.AssemblyReference.cache
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.GenerateResource.cache
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfoInputs.cache
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfo.cs
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CoreCompileInputs.cache
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.exe
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.deps.json
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.json
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.dev.json
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.dll
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ref\ServerServer.dll
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\ServerServer.pdb
+D:\Daimler Programmieren\ServerServer\bin\Debug\net5.0-windows\SimpleTcp.dll
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.Form1.resources
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CopyComplete
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.dll
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ref\ServerServer.dll
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.pdb
+D:\Daimler Programmieren\ServerServer\obj\Debug\net5.0-windows\ServerServer.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.exe
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.deps.json
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ref\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.pdb
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\bin\Debug\net5.0-windows\SimpleTcp.dll
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.Form1.resources
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CopyComplete
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ref\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.pdb
+C:\Users\david\OneDrive\Dokumente\Backupdown\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.exe
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.deps.json
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ref\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.pdb
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\bin\Debug\net5.0-windows\SimpleTcp.dll
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.Form1.resources
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.GenerateResource.cache
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CopyComplete
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ref\ServerServer.dll
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.pdb
+C:\Users\david\OneDrive\Dokumente\Schiffe_Versenken_1_0\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.genruntimeconfig.cache
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.exe
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.deps.json
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.json
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.runtimeconfig.dev.json
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.dll
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ref\ServerServer.dll
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\ServerServer.pdb
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\bin\Debug\net5.0-windows\SimpleTcp.dll
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.AssemblyReference.cache
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.Form1.resources
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.GenerateResource.cache
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfoInputs.cache
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.AssemblyInfo.cs
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CoreCompileInputs.cache
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.csproj.CopyComplete
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.dll
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ref\ServerServer.dll
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.pdb
+D:\Nick Hoschke\Downloads\Schiffe_Versenken_1_0 - Kopie (2)\Backupdown\ServerServer\obj\Debug\net5.0-windows\ServerServer.genruntimeconfig.cache

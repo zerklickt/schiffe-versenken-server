@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\ServerServer.csproj": {}
+  },
+  "projects": {
+    "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\ServerServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\ServerServer.csproj",
+        "projectName": "ServerServer",
+        "projectPath": "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\ServerServer.csproj",
+        "packagesPath": "C:\\Users\\Nick Hoschke\\.nuget\\packages\\",
+        "outputPath": "D:\\Nick Hoschke\\Downloads\\Schiffe_Versenken_1_0 - Kopie (2)\\Backupdown\\ServerServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nick Hoschke\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "SuperSimpleTcp": {
+              "target": "Package",
+              "version": "[2.4.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
