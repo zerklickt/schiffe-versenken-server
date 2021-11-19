@@ -4,7 +4,9 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -14,7 +16,9 @@ namespace ServerServer
     public partial class Form1 : Form
     {
         public int Kord;
-        public int[,] field = new int[4, 4]; 
+        public int[,] field = new int[4, 4];
+        public bool client1Ready;
+        public bool client2Ready;
         private byte[] transmission;
         public int c = 1;
         public int tmp = 64;
@@ -29,6 +33,8 @@ namespace ServerServer
         private void Form1_Load(object sender, EventArgs e)
         {
             btnSend.Enabled = false;
+            client1Ready = false;
+            client2Ready = false;
             server = new SimpleTcpServer(txtIP.Text);
             server.Events.ClientConnected += Events_ClientConnected;
             server.Events.ClientDisconnected += Events_ClientDisconnected;
@@ -64,6 +70,32 @@ namespace ServerServer
                 try
                 {
                     transmission = e.Data;
+                    Message ms = FromByteArray<Message>(e.Data);
+                    if(ms.getType() == 6)
+                    {
+                        if(client1Ready && client2Ready)
+                        {
+                            if (ListClientIP.Items.Count == 2)
+                            {
+                                Message m = new Message(5, "1");
+                                BinaryFormatter formatter = new BinaryFormatter();
+                                using (var s = new MemoryStream())
+                                {
+                                    formatter.Serialize(s, m);
+                                    transmission = s.ToArray();
+
+                                }
+                                str = e.IpPort;
+                                btnSend.PerformClick();
+                            }
+                        } else if(client1Ready){
+                            client2Ready = true;
+                        } else
+                        {
+                            client1Ready = true;
+                        }
+                        return;
+                    }
                     //tmp = Convert.ToInt32(Encoding.UTF8.GetString(e.Data));
                 }
                 catch
@@ -93,6 +125,16 @@ namespace ServerServer
                 txtInfo.Text += $"{e.IpPort} connected.{Environment.NewLine}";
                 ListClientIP.Items.Add(e.IpPort);
             });
+        }
+
+        public static T FromByteArray<T>(byte[] data)
+        {
+            BinaryFormatter formatter = new BinaryFormatter();
+            using (MemoryStream s = new MemoryStream(data))
+            {
+                object o = formatter.Deserialize(s);
+                return (T)o;
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)
